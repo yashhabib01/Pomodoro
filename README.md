@@ -36,7 +36,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 <h1>Output Sample</h1>
 
 <h3>Home Page</h3>
-![Image1](https://github.com/yashhabib01/Pomodoro/assets/75259953/620527c1-d493-4b38-bc8b-1113b4dcf51f)
+<img src="https://github.com/yashhabib01/Pomodoro/assets/75259953/620527c1-d493-4b38-bc8b-1113b4dcf51f" width="500px" height="700px"> </img>
+![Image1]()
 
 
 ![Image2](https://github.com/yashhabib01/Pomodoro/assets/75259953/257b9cb0-c084-42e1-9eab-54b6e30933f9)
