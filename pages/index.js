@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import { useQuery, gql, useMutation } from "@apollo/client";
 import { withPageAuthRequired } from "@auth0/nextjs-auth0";
 import Timer from "@/components/Timer";
@@ -62,7 +62,7 @@ const UPDATE_TASk = gql`
   }
 `;
 
-const home = () => {
+const Home = () => {
   const { data, loading, refetch } = useQuery(QUERY_ALL_TASKS, {
     onCompleted: (data) => setTasks(data.getTasks),
   });
@@ -196,6 +196,6 @@ const home = () => {
   );
 };
 
-export default home;
+export default Home;
 
 export const getServerSideProps = withPageAuthRequired();
