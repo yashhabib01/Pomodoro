@@ -9,7 +9,7 @@ import {
 
 export const Providers = ({ children }) => {
   const client = new ApolloClient({
-    uri: "https://pomodoro-mwa85gwa2-yashhabib01.vercel.app/api/graphql",
+    uri: process.env.NEXT_PUBLIC_CLIENT_URL,
     cache: new InMemoryCache(),
   });
   return <ApolloProvider client={client}>{children}</ApolloProvider>;
