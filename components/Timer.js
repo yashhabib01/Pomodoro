@@ -14,6 +14,7 @@ const Timer = ({ sec, handleComplete, hideController }) => {
         flexDirection: "column",
         alignItems: "center",
         width: "100%",
+        color: "white",
         margin: "30px 0",
       }}
     >
