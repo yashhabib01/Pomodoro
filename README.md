@@ -36,15 +36,17 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 <h1>Output Sample</h1>
 
 <h3>Home Page</h3>
-<img src="https://github.com/yashhabib01/Pomodoro/assets/75259953/a99fa5c3-db64-484d-96c9-cc747baccf30" width="1100px" height="700px" margin="20px 0px"> </img>
+<img src="https://github.com/yashhabib01/Pomodoro/assets/75259953/c6be163d-7ec5-49a0-9803-a7b7e0e760b9" width="1100px" height="700px" margin="20px 0px"> </img>
 
 
 
-<img src="https://github.com/yashhabib01/Pomodoro/assets/75259953/1e1176c7-bc93-418f-9ea0-2f767e21987b" width="1100px" height="700px" margin="20px 0px" > </img>
+
+<img src="https://github.com/yashhabib01/Pomodoro/assets/75259953/6c1bac4c-7564-45d2-b502-f8eff6c046a1" width="1100px" height="700px" margin="20px 0px" > </img>
+
 
 
 <h3>Task Page</h3>
-<img src="https://github.com/yashhabib01/Pomodoro/assets/75259953/24cd1a34-4ec5-40ab-8846-d3ceaaeef6fb" width="1100px" height="700px" margin="20px 0px" > </img>
+<img src="https://github.com/yashhabib01/Pomodoro/assets/75259953/506b3b29-5855-40d4-9493-df8a77a6872f" width="1100px" height="700px" margin="20px 0px" > </img>
 
 
 <h3>Analysis Page</h3>
