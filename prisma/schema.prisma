@@ -1,0 +1,47 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider     = "mysql"
+  url          = env("DATABASE_URL")
+  relationMode = "prisma"
+}
+
+model User {
+  id       Int       @id @default(autoincrement())
+  name     String
+  email    String    @unique
+  tasks    Task[]
+  Pomodoro Pomodoro?
+}
+
+model Pomodoro {
+  id     Int    @id @default(autoincrement())
+  time   String @default("0")
+  userId Int    @unique
+  taskId Int    @unique
+  user   User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+  task   Task   @relation(fields: [taskId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, taskId])
+}
+
+model Task {
+  id          Int       @id @default(autoincrement())
+  title       String
+  description String
+  dueDate     DateTime
+  createdAt   DateTime  @default(now())
+  completed   Boolean   @default(false)
+  tomatoes    Int       @default(0)
+  priority    Int       @default(0)
+  user        User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  userId      Int
+  Pomodoro    Pomodoro?
+
+  @@index([userId])
+}
