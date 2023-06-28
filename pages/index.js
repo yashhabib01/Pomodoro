@@ -92,9 +92,9 @@ const Home = () => {
     }
 
     if ((taskCompleted + 1) % 4 === 0) {
-      setBreakTime(30);
+      setBreakTime(1800);
     } else {
-      setBreakTime(5);
+      setBreakTime(300);
     }
     setTaskCompleted(taskCompleted + 1);
     setSelectedTask(null);
@@ -146,7 +146,7 @@ const Home = () => {
       {selectedTask && (
         <div>
           <h1>Selected Task: {selectedTask.title}</h1>
-          <Timer sec={20} handleComplete={handleComplete} />
+          <Timer sec={1200} handleComplete={handleComplete} />
         </div>
       )}
 
