@@ -35,14 +35,15 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Technologies Used
 
-- ![GraphQL Icon](https://fontawesome.com/icons?d=gallery&q=graphql) `fab fa-graphql` GraphQL
-- ![JavaScript Icon](https://fontawesome.com/icons?d=gallery&q=javascript) `fab fa-js` JavaScript
-- ![Prisma Icon](https://fontawesome.com/icons?d=gallery&q=prisma) `fas fa-database` Prisma
-- ![Next.js Icon](https://fontawesome.com/icons?d=gallery&q=nextjs) `fab fa-react` Next.js
-- ![React Icon](https://fontawesome.com/icons?d=gallery&q=react) `fab fa-react` React
-- ![PlanetScale Icon](https://fontawesome.com/icons?d=gallery&q=planetscale) `fab fa-rocket` PlanetScale
-- ![CSS Icon](https://fontawesome.com/icons?d=gallery&q=css) `fab fa-css3-alt` CSS
-- ![Vercel Icon](https://fontawesome.com/icons?d=gallery&q=vercel) `fab fa-vercel` Vercel
+- <img src="https://fontawesome.com/icons?d=gallery&q=graphql" alt="GraphQL Icon" width="16" height="16"> GraphQL
+- <img src="https://fontawesome.com/icons?d=gallery&q=javascript" alt="JavaScript Icon" width="16" height="16"> JavaScript
+- <img src="https://fontawesome.com/icons?d=gallery&q=prisma" alt="Prisma Icon" width="16" height="16"> Prisma
+- <img src="https://fontawesome.com/icons?d=gallery&q=nextjs" alt="Next.js Icon" width="16" height="16"> Next.js
+- <img src="https://fontawesome.com/icons?d=gallery&q=react" alt="React Icon" width="16" height="16"> React
+- <img src="https://fontawesome.com/icons?d=gallery&q=planetscale" alt="PlanetScale Icon" width="16" height="16"> PlanetScale
+- <img src="https://fontawesome.com/icons?d=gallery&q=css" alt="CSS Icon" width="16" height="16"> CSS
+- <img src="https://fontawesome.com/icons?d=gallery&q=vercel" alt="Vercel Icon" width="16" height="16"> Vercel
+
 
 <h1>Output Sample</h1>
 
