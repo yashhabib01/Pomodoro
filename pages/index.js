@@ -146,7 +146,7 @@ const Home = () => {
       {selectedTask && (
         <div>
           <h1>Selected Task: {selectedTask.title}</h1>
-          <Timer sec={1200} handleComplete={handleComplete} />
+          <Timer sec={1500} handleComplete={handleComplete} />
         </div>
       )}
 
