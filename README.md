@@ -33,6 +33,15 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
+- ![GraphQL Icon](https://fontawesome.com/icons?d=gallery&q=graphql) GraphQL
+- ![JavaScript Icon](https://fontawesome.com/icons?d=gallery&q=javascript) JavaScript
+- ![Prisma Icon](https://fontawesome.com/icons?d=gallery&q=prisma) Prisma
+- ![Next.js Icon](https://fontawesome.com/icons?d=gallery&q=nextjs) Next.js
+- ![React Icon](https://fontawesome.com/icons?d=gallery&q=react) React
+- ![PlanetScale Icon](https://fontawesome.com/icons?d=gallery&q=planetscale) PlanetScale
+- ![CSS Icon](https://fontawesome.com/icons?d=gallery&q=css) CSS
+- ![Vercel Icon](https://fontawesome.com/icons?d=gallery&q=vercel) Vercel
+
 <h1>Output Sample</h1>
 
 <h3>Home Page</h3>
