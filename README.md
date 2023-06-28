@@ -33,14 +33,16 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-- ![GraphQL Icon](https://fontawesome.com/icons?d=gallery&q=graphql) GraphQL
-- ![JavaScript Icon](https://fontawesome.com/icons?d=gallery&q=javascript) JavaScript
-- ![Prisma Icon](https://fontawesome.com/icons?d=gallery&q=prisma) Prisma
-- ![Next.js Icon](https://fontawesome.com/icons?d=gallery&q=nextjs) Next.js
-- ![React Icon](https://fontawesome.com/icons?d=gallery&q=react) React
-- ![PlanetScale Icon](https://fontawesome.com/icons?d=gallery&q=planetscale) PlanetScale
-- ![CSS Icon](https://fontawesome.com/icons?d=gallery&q=css) CSS
-- ![Vercel Icon](https://fontawesome.com/icons?d=gallery&q=vercel) Vercel
+## Technologies Used
+
+- ![GraphQL Icon](https://fontawesome.com/icons?d=gallery&q=graphql) `fab fa-graphql` GraphQL
+- ![JavaScript Icon](https://fontawesome.com/icons?d=gallery&q=javascript) `fab fa-js` JavaScript
+- ![Prisma Icon](https://fontawesome.com/icons?d=gallery&q=prisma) `fas fa-database` Prisma
+- ![Next.js Icon](https://fontawesome.com/icons?d=gallery&q=nextjs) `fab fa-react` Next.js
+- ![React Icon](https://fontawesome.com/icons?d=gallery&q=react) `fab fa-react` React
+- ![PlanetScale Icon](https://fontawesome.com/icons?d=gallery&q=planetscale) `fab fa-rocket` PlanetScale
+- ![CSS Icon](https://fontawesome.com/icons?d=gallery&q=css) `fab fa-css3-alt` CSS
+- ![Vercel Icon](https://fontawesome.com/icons?d=gallery&q=vercel) `fab fa-vercel` Vercel
 
 <h1>Output Sample</h1>
 
