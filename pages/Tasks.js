@@ -158,8 +158,8 @@ const TaskInput = () => {
   };
 
   const onSubmit = async (task) => {
+     setCustomLoading(true);
     if (updateTaskState) {
-      setCustomLoading(true);
       await updateTask({
         variables: {
           updateTaskId: updateTaskState.id,
